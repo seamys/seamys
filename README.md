@@ -28,6 +28,13 @@ Designing systems that scale · Writing code that lasts
 
 ---
 
+**Contact**
+
+[![Email](https://img.shields.io/badge/-yiim@foxmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:yiim@foxmail.com)
+[![WeChat](https://img.shields.io/badge/-Flying--Pizza-07C160?style=flat-square&logo=wechat&logoColor=white)](https://img.shields.io/badge/-Flying--Pizza-07C160)
+
+---
+
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seamys&show_icons=true&theme=default&hide_border=true&count_private=true&hide_title=true&include_all_commits=true)
