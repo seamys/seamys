@@ -2,9 +2,9 @@
 
 # Flying Pizza
 
-**System Architect**
+**System Architect · AI Agent Engineer**
 
-Designing systems that scale · Writing code that lasts
+Designing systems that scale · Building intelligent agents · @ Lenovo
 
 </div>
 
