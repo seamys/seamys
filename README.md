@@ -25,6 +25,7 @@ Designing systems that scale · Building intelligent agents · @ Lenovo
 | Project | Description |
 |---------|-------------|
 | [GrainLab](https://github.com/seamys/grainlab) | Film photography effect simulator — browser-based, no install · [Live Demo →](https://seamys.github.io/grainlab/) |
+| [openwrt-openclash-guide](https://github.com/seamys/openwrt-openclash-guide) | OpenWrt + OpenClash setup guide — x86_64 soft router, Fake-IP transparent proxy, AI tools dedicated proxy group |
 
 ---
 
